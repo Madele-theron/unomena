@@ -1,0 +1,21 @@
+.vercel
+
+# Dependency directories
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Tailwind CSS JIT cache
+.tailwind/
+
+# Production directory
+build/
+
+# IDE directories
+.vscode/
+
+# System files
+Thumbs.db
+
